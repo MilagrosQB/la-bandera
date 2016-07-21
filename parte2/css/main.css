@@ -1,0 +1,21 @@
+p {
+	text-align: left;
+	font-size: 14px;
+	font-family: Arial;
+	padding: 8px;
+}
+.amarillo-1 {
+	background: #FFFF00;
+	width: 200px;
+	height: 90px;
+}
+.rojo {
+	background: #FF0000;
+	width: 200px;
+	height: 90px;
+}
+.amarillo-2 {
+	background: #FFFF00;
+	width: 200px;
+	height: 90px;
+}

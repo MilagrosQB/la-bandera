@@ -1,0 +1,33 @@
+*{
+	box-sizing: border-box;
+	margin:0px;
+	padding:0px;
+}
+
+p {
+	text-align: left;
+	font-size: 14px;
+	font-family: Arial;
+	padding: 8px;
+}
+.amarillo-1 {
+	display: inline-block;
+	background: #FFFF00;
+	width: 200px;
+	height: 90px;
+	margin-right:10px;
+}
+.rojo {
+	display: inline-block;
+	background: #FF0000;
+	width: 200px;
+	height: 90px;
+	margin-right:10px;
+}
+.amarillo-2 {
+	display: inline-block;
+	background: #FFFF00;
+	width: 200px;
+	height: 90px;
+	margin-right:10px;
+}
